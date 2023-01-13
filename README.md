@@ -27,12 +27,12 @@
 <br>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shin-seung-hyun&show_icons=true&theme=algolia"/>
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-seung-hyun&show_icons=true&theme=algolia"/>
+	
 </div>
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-seung-hyun&show_icons=true&theme=algolia)
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
