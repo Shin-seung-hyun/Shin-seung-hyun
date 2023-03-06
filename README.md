@@ -27,7 +27,7 @@
 <br>
 
 <div align=center>
-	<h3> 🔥 Satatus🔥 </h3>
+	<h3> 🔥 Status🔥 </h3>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-seung-hyun&show_icons=true&theme=algolia"/>
 	
 </div>
