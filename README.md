@@ -25,12 +25,12 @@
 <br>
 
 <br>
-
+<!-- 
 <div align=center>
 	<h3> 🔥 Status🔥 </h3>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-seung-hyun&show_icons=true&theme=algolia"/>
 	
-</div>
+</div> -->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-seung-hyun&show_icons=true&theme=algolia)
