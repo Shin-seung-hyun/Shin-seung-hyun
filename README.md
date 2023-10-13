@@ -27,7 +27,7 @@
 <br>
 <div align=center>
 	<h3> ✨ My PORTFOLIO✨  </h3>
-	<a href="https://invited-lily-dff.notion.site/PORTFOLIO-b7a1cba81d0c4a6fa7244bfdcf175e72?pvs=4"><img src="https://github.com/Shin-seung-hyun/Shin-seung-hyun/assets/59863297/09be14c5-06f5-43a0-bb03-36e71236bb92" width="300" height="100"/></a>
+	<a href="https://invited-lily-dff.notion.site/PORTFOLIO-b7a1cba81d0c4a6fa7244bfdcf175e72?pvs=4">Click here</a>
 
 </div>
 
