@@ -25,7 +25,7 @@
 
   </br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Portinaer-13BEF9?style=flat&logo=Portainer&logoColor=white">
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=Portainer&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
