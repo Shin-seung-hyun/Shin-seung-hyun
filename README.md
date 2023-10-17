@@ -8,20 +8,29 @@
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/Java-0B4EA2?style=flat&logo=Jabber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-0B4EA2?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-000b47?style=flat&logo=Jabber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white">
   
   </br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=MySQL&logoColor=white"/>
 
   </br>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Jabber&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Jabber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Jabber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Jabber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon RDS-3e47c4?style=flat&logo=Amazon RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
+
+  </br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Portinaer-13BEF9?style=flat&logo=Portainer&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
 </div>
 
 <br>
