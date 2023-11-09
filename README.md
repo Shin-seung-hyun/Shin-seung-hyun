@@ -9,7 +9,7 @@
 
 <div align=center>
   <img src="https://img.shields.io/badge/Java-0B4EA2?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white">
   
@@ -37,6 +37,7 @@
 
 <div align=center>
 	<h3> ✨ My PORTFOLIO✨  </h3>
+	<p> If you want to see my portfolio... </p>
 	<a href="https://invited-lily-dff.notion.site/PORTFOLIO-b7a1cba81d0c4a6fa7244bfdcf175e72?pvs=4" target="_blank">
 		<img src="http://github.com/Shin-seung-hyun/Shin-seung-hyun/assets/59863297/cbad97dd-d3a9-4ecc-9b5a-1e80968c22bd" width="300" height ="100" alt="Click here"/>
 	</a>
