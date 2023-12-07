@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+
+  </br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 </div>
 
 <br>
