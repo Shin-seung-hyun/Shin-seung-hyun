@@ -34,8 +34,11 @@
 </div>
 
 ## 🔥 Status🔥
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjack1028)](https://solved.ac/profile/jjack1028)
+
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-seung-hyun&card_width=500&show_icons=true&theme=algolia"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-seung-hyun&card_width=500&hide=contribs&show_icons=true&theme=algolia)](https://github.com/Shin-seung-hyun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-seung-hyun&card_width=500&show_icons=true&theme=algolia&layout=compact)](https://github.com/Shin-seung-hyun/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjack1028&width=500)](https://solved.ac/profile/jjack1028)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjack1028)](https://solved.ac/profile/jjack1028)-->
