@@ -41,17 +41,8 @@
 <br>
 
 <div align=center>
-	<h3> ✨ My PORTFOLIO✨  </h3>
-	<p> If you want to see my portfolio... </p>
-	<a href="https://invited-lily-dff.notion.site/PORTFOLIO-b7a1cba81d0c4a6fa7244bfdcf175e72?pvs=4" target="_blank">
-		<img src="http://github.com/Shin-seung-hyun/Shin-seung-hyun/assets/59863297/cbad97dd-d3a9-4ecc-9b5a-1e80968c22bd" width="300" height ="100" alt="Click here"/>
-	</a>
-</div>
-
-<br>
-
-<!-- 
-<div align=center>
 	<h3> 🔥 Status🔥 </h3>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-seung-hyun&show_icons=true&theme=algolia"/>
-</div> -->
+</div> 
+
+<br>
