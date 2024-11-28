@@ -34,11 +34,23 @@
 </div>
 
 ## 🔥 Status🔥
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <a href="https://solved.ac/profile/jjack1028">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjack1028" alt="Solved.ac 프로필" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-seung-hyun&card_width=500&show_icons=true&theme=algolia" alt="GitHub Stats" />
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/Shin-seung-hyun/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-seung-hyun&card_width=500&show_icons=true&theme=algolia&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjack1028)](https://solved.ac/profile/jjack1028)
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shin-seung-hyun&card_width=500&show_icons=true&theme=algolia"/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-seung-hyun&card_width=500&show_icons=true&theme=algolia&layout=compact)](https://github.com/Shin-seung-hyun/github-readme-stats)
 
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjack1028)](https://solved.ac/profile/jjack1028)-->
