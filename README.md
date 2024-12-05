@@ -2,36 +2,58 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seunghyun's%20GitHub%20Profile)
 
-## ✨ Backend Stack ✨
-<div>
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
- <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring Data JPA&logoColor=white">
- <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white">
- <br>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
- <br>
- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
- <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=Portainer&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon RDS-3e47c4?style=flat&logo=Amazon RDS&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
- <br>
- <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
- <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
- <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
- <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
- <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
- <br>
- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
- <br>
- <br>
-</div>
+## ✨ Tech Stack ✨
+<table>
+  <tr>
+    <th>🚀 Backend</th>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white">
+      <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>🎨 Frontend</th>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>🗄️ Database</th>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>⚙️ DevOps</th>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=Portainer&logoColor=white">
+      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
+      <img src="https://img.shields.io/badge/Amazon RDS-3e47c4?style=flat&logo=Amazon RDS&logoColor=white">
+      <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>🌟 Etc </th>
+    <td>
+      <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
+      <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
+      <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🔥 Status🔥
 <table style="border: none;">
