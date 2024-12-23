@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seunghyun's%20GitHub%20Profile)
 
 ## ✨ Tech Stack ✨
-<table style="width: 100%; border-collapse: collapse;">
+<table>
   <tr>
-    <th style="text-align: left; width: 15%;">🚀 Backend</th>
-    <td style="width: 85%;">
+    <th>🚀 Backend</th>
+    <td>
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
       <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -15,8 +15,8 @@
     </td>
   </tr>
   <tr>
-    <th style="text-align: left; width: 15%;">🎨 Frontend</th>
-    <td style="width: 85%;">
+    <th>🎨 Frontend</th>
+    <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
@@ -25,15 +25,15 @@
     </td>
   </tr>
   <tr>
-    <th style="text-align: left; width: 15%;">🗄️ Database</th>
-    <td style="width: 85%;">
+    <th>🗄️ Database</th>
+    <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
     </td>
   </tr>
   <tr>
-    <th style="text-align: left; width: 15%;">⚙️ DevOps</th>
-    <td style="width: 85%;">
+    <th>⚙️ DevOps</th>
+    <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
       <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=Portainer&logoColor=white">
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
@@ -42,8 +42,8 @@
     </td>
   </tr>
   <tr>
-    <th style="text-align: left; width: 15%;">🌟 Etc</th>
-    <td style="width: 85%;">
+    <th>🌟 Etc </th>
+    <td>
       <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
       <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
       <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
